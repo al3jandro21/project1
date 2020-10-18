@@ -19,3 +19,7 @@ h1{
 body{
     text-align: center;
 }
+body{
+    background-color: yellow;
+    color: blue;
+}
