@@ -1,3 +1,21 @@
 body{
     font-family: 'Kaushan Script', cursive;
 }
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 18px;
+}
+h1{
+    font-weight: bold;
+}
+h1{
+    text-decoration: underline;
+}
+body{
+    text-align: center;
+}
